@@ -9,6 +9,7 @@
     "lint-staged": "lint-staged",
     "install:void": ":",
     "install:kissik/port-sniffer": "cd ./submissions/kissik/port-sniffer && yarn",
+    "install:xsorter/port-sniffer": "cd ./submissions/xsorter/port-sniffer && yarn",
     "postinstall": "run-p install:**"
   },
   "repository": {
