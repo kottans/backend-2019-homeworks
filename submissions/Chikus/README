@@ -1,0 +1,29 @@
+1.- Run in a terminal http-server.js   example:"node http-server.js"
+2.- Run in another terminal http-client.js example:"node http-client.js"
+3.- In the client terminal you can run the following stack commands one by one:
+
+push 1
+push 2
+push 3
+pop
+pop
+pop
+
+4.- Again in the client terminal you can run the following linkedlist commands one by one:
+
+insert C
+insert B before C
+insert A before B
+
+show
+
+insert Y
+show
+
+remove B
+show
+
+5.- You can mix commands and use verbose to verify that the command was executed correctly,
+this ca be executed one time and it cant be changed again:
+
+insert C verbose
