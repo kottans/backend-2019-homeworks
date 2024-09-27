@@ -1,0 +1,21 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eoneoff/nodejs-2019-homeworks/tree/master/submissions/eoneoff/weather-api"
+  },
+  "author": "eoneoff",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^3.0.0",
+    "cli-table": "^0.3.1",
+    "readline-sync": "^1.4.10"
+  }
+}
